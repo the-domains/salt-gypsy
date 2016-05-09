@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SALT GYPSY]]></title>
+        <description><![CDATA[SALT GYPSY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 06:30:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Salt Gypsy]]></title>
+            <description><![CDATA[<article><h1>Salt Gypsy</h1><p>Salt Gypsy blog: women's surf leggings, rashguards and surf bikinis. Curated design news for female surfers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4eee70ce10153b4f316a79f69cc6daad72fcb21.png"></article>]]></description>
+            <link>http://www.styleinthelineup.com/</link>
+            <guid isPermaLink="false">f5f1f9cb-ded0-4518-8112-d409dc214849</guid>
+            <pubDate>Mon, 09 May 2016 06:30:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
